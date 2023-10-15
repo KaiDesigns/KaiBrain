@@ -7,7 +7,7 @@ const config: QuartzConfig = {
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: 'google', tagID: <G-YXMKXXDNCS>,
+      provider: "google", tagId: G-YXMKXXDNCS
     },
     baseUrl: "kaibrain.com",
     ignorePatterns: ["private", "templates", ".obsidian"],
